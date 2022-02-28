@@ -1,0 +1,51 @@
+{
+  "pets": [
+    {
+      "name": "Jimmy",
+      "age": 2,
+      "animal_type": "German Shepherd",
+      "color": "Red & Black",
+      "id": 25
+    },
+    {
+      "name": "jassy",
+      "age": 4,
+      "animal_type": "Labrador",
+      "color": "black",
+      "id": 26
+    },
+    {
+      "name": "DJ",
+      "animal_type": "Rottweiler",
+      "id": 24
+    },
+    {
+      "name": "Terrysss",
+      "animal_type": "Labrador",
+      "id": 22
+    },
+    {
+      "name": "drake",
+      "age": 20,
+      "animal_type": "Husky",
+      "color": "yellow",
+      "id": 30
+    },
+    {
+      "name": "Terry C",
+      "animal_type": "Labrador",
+      "id": 66
+    },
+    {
+      "name": "Husky",
+      "animal_type": "Pitbul",
+      "id": 97
+    },
+    {
+      "id": 90,
+      "name": "Brown",
+      "animal_type": "Pitbull",
+      "color": "black"
+    }
+  ]
+}
